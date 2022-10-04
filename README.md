@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <h3>⚔️ Codewars</h3>
-  <a target="_blank" href="https://www.codewars.com/users/lewisgormanneale"><img src="https://www.codewars.com/users/lewisgormanneale/badges/large" alt="Codewars Badge" /></a>
+  <a target="_blank" href="https://www.codewars.com/users/lewisgormanneale"><img src="https://www.codewars.com/users/lewisgormanneale/badges/small" alt="Codewars Badge" /></a>
 </div>
 <hr>
 <h2  align="center">📨 Connect With Me</h2>

@@ -1,7 +1,9 @@
 <h1 align="center">👋🏻</h1>
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
-<p></p>
+<p>Hello! My name's Lewis and I'm an aspiring developer currently enrolled at the School Of Code bootcamp learning Full Stack Development (and loving it!). Previously in my career I've worked in areas such as technical support for customers, QA, and most recently I held an IT role as a Business Systems Analyst.</p>
+<p>After years of hearing clients or coworkers kindly say I was 'good with computers', I increasingly felt limited by my lack of coding knowledge. As a Business Systems Analyst I helped automate or improve numerous company processes but always felt held back by how much I could actually do to improve a process without knowing much about how to script processes, make API calls, and so on. </p>
+<p>So, I've taken the plunge and am now fully committed on my journey to learn to code and hopefully start building some awesome solutions that make life easier for people. I'm enrolled on the School of Code until February 2023 - reach out on one of my socials linked below if you'd like to chat!</p>
 </div>
 <hr>
 <h2 align="center">🛠 My Toolkit </h2>

@@ -1,9 +1,8 @@
 <h1 align="center">👋🏻</h1>
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
-<p>Hello! My name's Lewis and I'm an aspiring developer currently enrolled at the School Of Code bootcamp learning Full Stack Development. Previously in my career I've worked in areas such as technical support for customers, QA, and most recently I held an IT role as a Business Systems Analyst.</p>
-<p>After years of hearing clients or coworkers kindly say I was 'good with computers', I increasingly felt limited by my lack of coding knowledge. In my previous job as a Business Systems Analyst I helped automate or improve numerous company processes but always felt held back by how much I could actually do to improve a process without being able to build custom solutions myself.</p>
-<p>As soon as I started learning to code for myself I knew it was what I wanted to do for a career, and immediately enrolled in the School of Code, a 16-week intensive full-time coding bootcamp designed to teach the fundamentals of programming, how to work in a high performance tech team and work to industry best practices and standards.</p>
+<p>I'm an aspiring developer currently enrolled at the School Of Code bootcamp learning Full Stack Development. The School of Code is a 16-week intensive full-time coding bootcamp designed to teach the fundamentals of programming, how to work in a high performance tech team and work to industry best practices and standards.</p>
+<p>Most recently in my career I held an IT role as a Business Systems Analyst, working on improving business processes and systems, while helping colleagues with techical issues. I really enjoyed finding solutions that helped others, but wanted to be able to do more - I wanted to be capable of building custom solutions to problems that required creative solutions. Once I began learning to code for myself, I knew it was the path for me and enrolled in the School of Code.</p>
 <p>I've loved everything about learning to code so far, and enjoy learning about new technologies and building things that are helpful or just interesting to me. I'm enrolled on the School of Code until February 2023 - reach out on one of my socials linked below if you'd like to chat!</p>
 </div>
 <hr>

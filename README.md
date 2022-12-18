@@ -3,7 +3,7 @@
 <div align="center">
 <p>I'm an aspiring developer currently enrolled at the School Of Code bootcamp learning Full Stack Development. The School of Code is a 16-week intensive full-time coding bootcamp designed to teach the fundamentals of programming, how to work in a high performance tech team and work to industry best practices and standards.</p>
 <p>Most recently in my career I held an IT role as a Business Systems Analyst, working on improving business processes and systems, while helping colleagues with techical issues. I really enjoyed finding solutions that helped others, but wanted to be able to do more - I wanted to be capable of building custom solutions to problems that required creative solutions. Once I began learning to code for myself, I knew it was the path for me and enrolled in the School of Code.</p>
-<p>I've loved everything about learning to code so far, and enjoy learning about new technologies and building things that are helpful or just interesting to me. I'm enrolled on the School of Code until February 2023 - reach out on one of my socials linked below if you'd like to chat!</p>
+<p>I'm enrolled on the School of Code until February 2023 - reach out on one of my socials linked below if you'd like to chat!</p>
 </div>
 <hr>
 <h2 align="center">🛠 My Toolkit </h2>

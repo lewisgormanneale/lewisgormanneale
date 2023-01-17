@@ -1,8 +1,8 @@
 <h1 align="center">👋🏻</h1>
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
-<p>I'm an aspiring developer currently enrolled at the School Of Code bootcamp learning Full Stack Development. The School of Code is a 16-week intensive full-time coding bootcamp designed to teach the fundamentals of programming, how to work in a high performance tech team and work to industry best practices and standards.</p>
-<p>Most recently in my career I held an IT role as a Senior Business Systems Analyst, where I worked on improving business processes and systems, while helping colleagues with techical issues. I really enjoyed finding solutions that helped others, but wanted to be able to do more - I wanted to be a developer, able to build my own solutions to problems! Once I began learning to code for myself, I knew it was the path for me and enrolled in the School of Code.</p>
+<p>I'm an aspiring developer trained in Full Stack Development at the School of Code. In my previous work as a Business Systems Analyst, I always enjoyed finding solutions that helped others. But I wanted to be able to do more, and be able to build these solutions for myself - I wanted to be a developer!</p>
+<p>Once I began learning to code, I knew it was the career path for me and enrolled in the School of Code bootcamp. I've had the time of my life learning to code and building projects since last year, and am taking this energy forward into my new career as I continue to work on developing my skills.</p>
 <p>I'm enrolled on the School of Code until February 2023 - reach out on one of my socials linked below if you'd like to chat!</p>
 </div>
 <hr>

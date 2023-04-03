@@ -3,7 +3,7 @@
 <div align="center">
 <p>I'm an aspiring developer trained in Full Stack Development at the School of Code. In my previous work as a Business Systems Analyst, I always enjoyed finding solutions that helped others. But I wanted to be able to do more, and be able to build these solutions for myself - I wanted to be a developer!</p>
 <p>Once I began learning to code, I knew it was the career path for me and enrolled in the School of Code bootcamp. I've had the time of my life learning to code and building projects since last year, and am taking this energy forward into my new career as I continue to work on developing my skills.</p>
-<p>I'm enrolled on the School of Code until March 2023 - reach out on one of my socials linked below if you'd like to chat!</p>
+<p>I graduated from the School of Code in March 2023 and am now looking for my first job in tech - reach out on one of my socials linked below if you'd like to chat!</p>
 </div>
 <hr>
 <h2 align="center">🛠 My Toolkit (A-Z)</h2>

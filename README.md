@@ -1,13 +1,13 @@
 <h1 align="center">👋🏻</h1>
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
-<p>I'm an aspiring developer trained in Full Stack Development at the School of Code. In my previous work as a Business Systems Analyst, I always enjoyed finding solutions that helped others. But I wanted to be able to do more, and be able to build these solutions for myself - I wanted to be a developer!</p>
-<p>Once I began learning to code, I knew it was the career path for me and enrolled in the School of Code bootcamp. I've had the time of my life learning to code and building projects since last year, and am taking this energy forward into my new career as I continue to work on developing my skills.</p>
-<p>I graduated from the School of Code in March 2023 and am now looking for my first job in tech - reach out on one of my socials linked below if you'd like to chat!</p>
+<p>I'm a graduate developer trained in Full Stack Development at the School of Code, and now looking to enter a new career in tech. In my previous job as a Business Systems Analyst, I always enjoyed finding solutions that helped others. But I wanted to be able to do more, and be able to build these solutions for myself - I wanted to be a developer.</p>
+<p>Once I began learning to code, I knew it was the career path for me and enrolled in the School of Code. I'm an effective communicator, team player and problem solver able to clearly break down, understand and explain problems to others, and I found that all of these skills I had developed in previous roles translated extremely well into this new career path. I've had the time of my life learning to code and building projects, both for the course and in my spare time. Now, I'm taking this energy forward into my new career as I continue to work on improving my skills.</p>
 </div>
 <hr>
 <h2 align="center">🛠 My Toolkit (A-Z)</h2>
 <div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress">
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">

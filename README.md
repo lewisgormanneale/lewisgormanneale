@@ -26,38 +26,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript">
 </div>
 <hr>
-<div>
-<h3>📊 GitHub Stats</h3>
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=lewisgormanneale&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=lewisgormanneale&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisgormanneale&show_icons=true" />
-</picture>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisgormanneale&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisgormanneale&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisgormanneale&show_icons=true" />
-</picture>
-</a>
-</div>
-</div>
-<hr>
 <h2  align="center">📨 Connect With Me</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/lewisgormanneale/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

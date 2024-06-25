@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻</h1>
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
-<p>I'm a frontend developer at Codeweavers. I'm always looking to push myself and improve my skills; in my spare timew, I love working on personal projects and learning new technologies.</p>
+<p>I'm a frontend developer at Codeweavers. I'm always looking to push myself and improve my skills; in my spare time, I love working on personal projects and learning new technologies.</p>
 </div>
 <hr>
 <h2 align="center">🛠 My Toolkit (A-Z)</h2>

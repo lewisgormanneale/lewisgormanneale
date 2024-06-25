@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt">
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Playwright-45BA4B.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript">
+  <img src="https://img.shields.io/badge/Vue.js-42B883.svg?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
 </div>
 <h2  align="center">📨 Connect With Me</h2>
 <p align="center">

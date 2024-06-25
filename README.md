@@ -1,8 +1,7 @@
 <h1 align="center">👋🏻</h1>
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
-<p>In my previous job as a Business Systems Analyst, I always enjoyed finding solutions that helped others. But I wanted to be able to do more, and be able to build these solutions for myself - I wanted to be a developer. Once I began learning to code, I knew it was the career path for me and enrolled onto the School of Code, an intensive 16-week full-time bootcamp which I highly recommend to anyone interested.</p>
-<p>I'm an effective communicator, team player and problem-solver able to clearly break down, understand and explain problems to others, and I found that all of these skills I had developed in previous roles translated extremely well into this new career path. I had the time of my life learning to code and building projects, both for the course and in my spare time. Now, I'm taking this energy forward into my new career as I continue to work on improving my skills.</p>
+<p>I'm a frontend developer at Codeweavers. I'm always looking to push myself and improve my skills; in my spare timew, I love working on personal projects and learning new technologies.</p>
 </div>
 <hr>
 <h2 align="center">🛠 My Toolkit (A-Z)</h2>

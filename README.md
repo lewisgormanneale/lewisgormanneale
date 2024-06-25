@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt">
+  <img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt.js&logoColor=white" alt="Nuxt">
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Playwright-45BA4B.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">

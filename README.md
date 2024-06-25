@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress">
   <img src="https://img.shields.io/badge/Docker-1E97EE.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Figma-5551FF.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">

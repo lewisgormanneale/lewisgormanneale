@@ -1,9 +1,7 @@
-
 <h2 align="center">🙋🏻‍♂️ About Me </h2>
 <div align="center">
 <p>I'm a frontend developer at Codeweavers. I'm always looking to push myself and improve my skills; in my spare time, I love working on personal projects and learning new technologies.</p>
 </div>
-<hr>
 <h2 align="center">🛠 My Toolkit (A-Z)</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular">
@@ -26,7 +24,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript">
 </div>
-<hr>
 <h2  align="center">📨 Connect With Me</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/lewisgormanneale/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

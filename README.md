@@ -1,7 +1,3 @@
-<h2 align="center">🙋🏻‍♂️ About Me </h2>
-<div align="center">
-<p>I'm a frontend developer at Codeweavers. I'm always looking to push myself and improve my skills; in my spare time, I love working on personal projects and learning new technologies.</p>
-</div>
 <h2 align="center">🛠 My Toolkit (A-Z)</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular">
